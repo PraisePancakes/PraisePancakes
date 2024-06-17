@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PraisePancakes
-- 👀 I’m interested in Coding and video Games
-- 🌱 I’m currently learning how to code video games.
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: my email, steam, phone number, instagram
+I’m interested in Coding and video Games
+I’m currently learning how to code video games.
+I’m looking to collaborate on projects.
+
 
 <!---
 PraisePancakes/PraisePancakes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
